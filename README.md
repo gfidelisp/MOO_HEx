@@ -1,5 +1,4 @@
 # Multi-Objective Optimization of Heat Exchangers
-
 This repository includes the code for the optimization of fan-assisted tube-fin heat exchangers via genetic algorithms.
 
 The code constains models for the propertiies of the internal and external fluids, characteristic areas and therma, hydraulic and aerodynamic correlations. 
